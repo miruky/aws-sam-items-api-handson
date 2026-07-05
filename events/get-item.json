@@ -1,0 +1,8 @@
+{
+  "httpMethod": "GET",
+  "path": "/items/REPLACE_WITH_ITEM_ID",
+  "pathParameters": {
+    "id": "REPLACE_WITH_ITEM_ID"
+  }
+}
+

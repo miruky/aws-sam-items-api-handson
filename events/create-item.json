@@ -1,0 +1,9 @@
+{
+  "httpMethod": "POST",
+  "path": "/items",
+  "headers": {
+    "Content-Type": "application/json"
+  },
+  "body": "{\"name\":\"テストアイテム\",\"description\":\"SAMサンプル\",\"price\":1500}"
+}
+

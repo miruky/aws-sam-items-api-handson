@@ -1,0 +1,12 @@
+{
+  "httpMethod": "PUT",
+  "path": "/items/REPLACE_WITH_ITEM_ID",
+  "pathParameters": {
+    "id": "REPLACE_WITH_ITEM_ID"
+  },
+  "headers": {
+    "Content-Type": "application/json"
+  },
+  "body": "{\"price\":1750}"
+}
+
